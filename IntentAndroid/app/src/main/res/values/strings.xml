@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Praktikum5</string>
+    <string name="hint_input_prodi">Nama Prodi</string>
+    <string name="btn_prodi">Bawa Prodi ke Activity Lain</string>
+    <string name="btn_call_browser">Masuk Ke Halaman Web Dandoeng</string>
+    <string name="btn_call_camera">Masuk ke Kamera</string>
+    <string name="input_phone_number">Masukan Nomor HP</string>
+    <string name="btn_call_phone">Panggil Nomor Di atas</string>
+    <string name="btn_fragment">Buka Fragment</string>
+    <string name="fragment_second">" Nama"</string>
+    <string name="btn_kembali_beranda">Kembali Ke Beranda</string>
+    <string name="fragment_first">Fragment 1</string>
+    <string name="input_nama">Nama</string>
+    <string name="input_nim">NIM</string>
+    <string name="btn_to_second_fragment">Kirim Ke Fragment 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
